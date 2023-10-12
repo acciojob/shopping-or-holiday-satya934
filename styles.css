@@ -1,2 +1,11 @@
-
+*{
+	margin:5px;
+	padding:10px;
+}
+.b{
+	color:red;
+}
+.d{
+	color:blue;
+}
 /* Your CSS Code here. */
